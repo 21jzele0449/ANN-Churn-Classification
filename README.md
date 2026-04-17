@@ -1,5 +1,3 @@
-# ANN-Churn-Classification
-
 
 # Churn Prediction App (ANN + Streamlit)
 
